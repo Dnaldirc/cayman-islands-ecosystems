@@ -1,0 +1,46 @@
+body{ background: blue;
+    font-family: helevtica;
+    margin:0;
+    padding:0;
+    color:white;
+}
+  
+  li{
+    list-style: none;
+  }
+  header{
+      background-color: seagreen;
+  height: 150px;}
+header img {width: 75px; margin-left:0;}
+  h1{ 
+      float: left;
+      margin-left: 60px;
+      margin-right: 40px;
+      margin-bottom: 40px;
+      color: yellow;
+      text-shadow: 3px 3px 3px 3px blue;}
+
+main { width: 960px;
+        min-height: 700px;
+        margin: 30px auto;}
+        nav li a {margin-top: 70px;
+            margin-left: 50px;
+            color: yellow;
+            font-size: 25px;
+            float: left;
+          }
+          nav li a:hover{
+            color:red;}
+          section{
+            margin-top: 30px;
+          margin: auto ;}
+       
+          main ul img {margin-left: 20px;}
+          main ul img :last-child{
+            margin-right: 0;}
+          
+          
+          footer{
+            height: 50px;
+            background-color:seagreen;
+          }
